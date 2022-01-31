@@ -1,0 +1,13 @@
+{
+    "name": "user/cms",
+    "authors": [
+        {
+            "name": "Ilija Filipovic",
+            "email": "filipovic.official@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^3.4",
+        "phpmailer/phpmailer": "^6.2"
+    }
+}
